@@ -1,2 +1,2 @@
-# Color-visual-cryptography
+# Visual cryptography
 Visual cryptography for color images
